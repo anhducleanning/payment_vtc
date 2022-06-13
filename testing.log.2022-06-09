@@ -1,0 +1,91 @@
+09/06/2022 09:46:19,552 DEBUG Request: ---------- REQUEST FROM VTC -----------
+09/06/2022 09:46:19,553 DEBUG Request: http://117.103.207.81:8080/share/GetInfo
+09/06/2022 09:46:19,553 DEBUG Request: ---------- END REQUEST FROM VTC -----------
+09/06/2022 10:40:42,872 DEBUG Request: ---------- REQUEST FROM VTC -----------
+09/06/2022 10:40:42,873 DEBUG Request: http://117.103.207.81:8080/share/GetInfo
+09/06/2022 10:40:42,873 DEBUG Request: ---------- END REQUEST FROM VTC -----------
+09/06/2022 10:41:49,064 DEBUG Request: ---------- REQUEST FROM VTC -----------
+09/06/2022 10:41:49,067 DEBUG Request: http://117.103.207.81:8080/share/GetInfo
+09/06/2022 10:41:49,068 DEBUG Request: ---------- END REQUEST FROM VTC -----------
+09/06/2022 14:00:17,895 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+09/06/2022 14:00:17,943 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "iAkeSc8otdg6E3DFK5kQV27RJCavhjfRfc80j3Ksgwb2sdtJdm3z6yv9zukmI1o6wfO6oYeVcPVFRpJhB1dF9L2P08FH+BagfWRGVh23WOOwi5npLpBzIuizKFnyB+WKnZ9Vzk7Um3f+4aerBuclcjmmFVACjzLk6NrBOsWt9Do=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220609092026",
+  "partnerTransID": "20220609092026971",
+  "productAmount": "100000",
+  "productID": "91"
+}
+09/06/2022 14:02:04,493 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+09/06/2022 14:02:04,552 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "20220609092026971",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "ONMdsg0iZQgypuBYx4cP/f8O5EzhBKOAJKO1KK/gQ998tgTzNre+NornPAzdXIQc8xJ7+oDVT0MoKJOZixfw4uSvhGCz7s5iGwEoyQgY03jEulwVC0/hjQMhuh8T+AaIY/dJCFenTKkcr3JzgZicLxDGFECXzkrr8tBrSC9uaC4="
+}
+09/06/2022 14:06:21,896 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+09/06/2022 14:06:21,906 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "20220609092026971",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "ONMdsg0iZQgypuBYx4cP/f8O5EzhBKOAJKO1KK/gQ998tgTzNre+NornPAzdXIQc8xJ7+oDVT0MoKJOZixfw4uSvhGCz7s5iGwEoyQgY03jEulwVC0/hjQMhuh8T+AaIY/dJCFenTKkcr3JzgZicLxDGFECXzkrr8tBrSC9uaC4="
+}
+09/06/2022 14:14:03,682 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+09/06/2022 14:14:03,700 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "20220609092026971",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "ONMdsg0iZQgypuBYx4cP/f8O5EzhBKOAJKO1KK/gQ998tgTzNre+NornPAzdXIQc8xJ7+oDVT0MoKJOZixfw4uSvhGCz7s5iGwEoyQgY03jEulwVC0/hjQMhuh8T+AaIY/dJCFenTKkcr3JzgZicLxDGFECXzkrr8tBrSC9uaC4="
+}
+09/06/2022 14:17:34,168 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+09/06/2022 14:17:34,182 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "20220609092026971",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "ONMdsg0iZQgypuBYx4cP/f8O5EzhBKOAJKO1KK/gQ998tgTzNre+NornPAzdXIQc8xJ7+oDVT0MoKJOZixfw4uSvhGCz7s5iGwEoyQgY03jEulwVC0/hjQMhuh8T+AaIY/dJCFenTKkcr3JzgZicLxDGFECXzkrr8tBrSC9uaC4="
+}
+09/06/2022 15:39:19,013 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+09/06/2022 15:39:19,026 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "20220609092026971",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "ONMdsg0iZQgypuBYx4cP/f8O5EzhBKOAJKO1KK/gQ998tgTzNre+NornPAzdXIQc8xJ7+oDVT0MoKJOZixfw4uSvhGCz7s5iGwEoyQgY03jEulwVC0/hjQMhuh8T+AaIY/dJCFenTKkcr3JzgZicLxDGFECXzkrr8tBrSC9uaC4="
+}
+09/06/2022 15:50:46,118 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+09/06/2022 15:50:46,127 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "20220609092026971",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "ONMdsg0iZQgypuBYx4cP/f8O5EzhBKOAJKO1KK/gQ998tgTzNre+NornPAzdXIQc8xJ7+oDVT0MoKJOZixfw4uSvhGCz7s5iGwEoyQgY03jEulwVC0/hjQMhuh8T+AaIY/dJCFenTKkcr3JzgZicLxDGFECXzkrr8tBrSC9uaC4="
+}
+09/06/2022 15:50:59,592 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+09/06/2022 15:50:59,613 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "20220609092026971",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "ONMdsg0iZQgypuBYx4cP/f8O5EzhBKOAJKO1KK/gQ998tgTzNre+NornPAzdXIQc8xJ7+oDVT0MoKJOZixfw4uSvhGCz7s5iGwEoyQgY03jEulwVC0/hjQMhuh8T+AaIY/dJCFenTKkcr3JzgZicLxDGFECXzkrr8tBrSC9uaC4="
+}

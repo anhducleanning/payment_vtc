@@ -1,0 +1,557 @@
+13/06/2022 08:29:03,534 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "dTkIIliOWzH/7cMDi0FyFxHYs/tcRFIoCwr83k+SxvUNYQ+7vn4fgTPAZoXe0iRKLaMCjAO7xzQkwJl5T65PHMalPzpCbMqceAHOsR4P00v6kW6xjR/5C/WLopMq8nFjugCy5+Lt1/H7Uu+U5zYiQEPHXEoiovDV6ZClIDEjOd8=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613082856",
+  "partnerTransID": "XKJHGAWTOZ",
+  "productAmount": "200000",
+  "productID": "92"
+}
+13/06/2022 08:29:03,931 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 08:29:03,939 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "XKJHGAWTOZ",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "d10M3jTUkYoTIeKwh9O+3b07Hxf/bBP+m9axTRiWLIyYlelDXoxhWUiJYP9srRFTcmW7FZfFBZi/RBpbDEjmZ1E8hkntAJ8+K4hEx7LPcl9/Jeic3f8pc4LekxT4ZtnPEfv+5tOth8O5/W+mDPQxan1lUZGo6RsDADNcxTwNhKU="
+}
+13/06/2022 08:33:18,202 DEBUG PayCard_Main: {
+  "categoryID": "27",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "GsxKtwT22S/K2K9oEfePDPQhrO8xPBGwglhuo86DdW4eU6TkPutgovT3hxNVOQSk5PPaI2xeRotv8Lu2Bd3rQk5YlePOo7kKZw+KeCTFYBccZNLATinQkcbdbQdPcmWj9w21Rpls6pnU6RVP+ZFX4qgvWOOVaK7epeq4DA//4y4=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613083316",
+  "partnerTransID": "FHFQARBXII",
+  "productAmount": "20000",
+  "productID": "2"
+}
+13/06/2022 08:33:18,402 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 08:33:18,407 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "FHFQARBXII",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "XhsZiqZjTrPGbO63pKRqSXUNCOZ/Lt20dGt1GfVc6nFokLxgw399Adq3hNT6qZVOzWCgeRPJQPe1DvWWD7A2XYJpZ363rsMKRoKraAVIDGk0SHWMOfC8D1ftTYMqbzX+RYSJ32CTnQ3CjCVWtAZZ7O+JQCcrUczA/YlGX+M37MY="
+}
+13/06/2022 08:33:52,652 DEBUG PayCard_Main: {
+  "categoryID": "27",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "RivJcIjjvnG5klQv6XKdU2ZEQzKrrpvns6TsshbB3x9hS3aTCr2VcPd4X+cIlrukqCnPXi2HUG7OHXIImztcTknORKss4xmfZHuUkPRHQ/FvPBqma2swIKPDHZDee9TUfLeyzMvmd0XZHuFuk+o+AIj5jKFm0qVzaCAcOxSDVBc=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613083350",
+  "partnerTransID": "KFVBZFZYLS",
+  "productAmount": "100000",
+  "productID": "31"
+}
+13/06/2022 08:33:52,851 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 08:33:52,856 DEBUG PayCard_Main: {
+  "responseCode": -5512,
+  "status": -1,
+  "partnerTransID": "KFVBZFZYLS",
+  "description": "Số lượng thẻ trong kho không đủ",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "HXXPKM14x8GhKpgXH5K7R4HsVvUmEWCZk4nh9fwUUCcjOoI5waxm5Fst2C0Ps1oz7xcpzv7sTErVnmLllh9GlVj2MA0cFsPNmYvlh0e7fvPN4ZRRqukhfmXf44jyeXg3VmXuNpouMFcFaEmxlF6346ZSUzzO2yqvtzSvvY/PXyI="
+}
+13/06/2022 08:34:38,425 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "QomAdiQ38ksZP4Mlp0JmXqjhNcwglrhAkDGsC9V6cnLDyLOZq49IoSUw7ytaIrej0ilXiZfPsyPgxcv65/xOd74sI5KP3iXcem+kNNpuZPqkKxqEplb7L/+unVLKWloZEQ4lTPJeqzFLHFWsSonklGpxjNkA3NXpPWQ3YEVy+3s=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613083437",
+  "partnerTransID": "XDHXRSEOEM",
+  "productAmount": "100000",
+  "productID": "93"
+}
+13/06/2022 08:34:38,502 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 08:34:38,507 DEBUG PayCard_Main: {
+  "responseCode": -307,
+  "status": -1,
+  "partnerTransID": "XDHXRSEOEM",
+  "description": "productAmount không đúng",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "W/ZILxs0Y9wuvAODV9buno2nJLnuWLo+qVvz8tItoF98CqNKkYdK3BkKD11ZM5voMt+IHaNbaQi/am5tu6daOhh37uvINmHlOKy+n6hF3xq5BPLKIum+WsI+djINi03mUrIaYyM5Eb4jNqMP94DkVnuvFKMGHRSWeBgdmlfP6vg="
+}
+13/06/2022 08:34:50,893 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "NnNEaENhAb11InTihi8MQurvQ0iJI7pvy+fQAYRgab7Chr+0jOxAnLfbBklYAzxhSKmuhDytf6ml9ZGcHF5UQq75u0lhF5ziWZhOFDLwY14HJ3DTE5/geD2HtP8CGaJzC3V3Y59APzJvDEzw0Mi3aWPiOr4v/lJA6IfmUUpNW4g=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613083449",
+  "partnerTransID": "EXSYZMWWZS",
+  "productAmount": "300000",
+  "productID": "93"
+}
+13/06/2022 08:34:51,291 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 08:34:51,307 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "EXSYZMWWZS",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "HrqwH5EEoSVELfiUlq6lvQeAo3mnyqto6XHYx+Z+XTRHiVGMuAFeX4mfTGpUnEqUghS0GYQlGaBvFzzHKOtrAFW26ZgH5dWJdM7qVlX4Ic6wiFX3etDPij8iLWWZ418gFQoOWpNwHMYP1bsajUGXecKAJqCKL73FLvSsXRs2c0s="
+}
+13/06/2022 08:36:10,998 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "2",
+  "dataSign": "FMSNfEeHsYR5NvBXXPfK7RJox1wtWQpmI0B1lrNd23oY8ukh1v2LiLcHszzAfDLR4jYk1+aHm2Kw/BoEElicdjxPpDC076x9J1wfG51/PvbjMLylrf1tgXf6B4gOM3HS/vY0Yfofac5EXwSuCwFkjaoQKFYbAHRke469MkDqG9Y=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613083609",
+  "partnerTransID": "VPNEHVVUTN",
+  "productAmount": "300000",
+  "productID": "93"
+}
+13/06/2022 08:36:11,356 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 08:36:11,370 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "VPNEHVVUTN",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "TAU1KUiJKzDMoYNNShbJ7xr2xBWbvkhoYqSk6RGPwZv+z2VVJmFOa3pXLzMEn0Tb+M1/1nw/NjkDjqxsnZgcPoWAOfZfXBOrFgr6Z9h5RmuMLzl3N+isSZfDUEUxkwwBCKW9YKPgrtbElO8bHYB0bhu3AHfwpE7pLaNz2T840FA="
+}
+13/06/2022 11:11:15,257 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "Eg0MQh1r0SwtJdR0ORT1dmc4F6GUgRUOh03wcORNl7FqWp2cEButSlZfPZ5sgcbQNwsgtw1s98E8ikcImhLRelwwT9tE/9+FXUoi85TvAVq2KtoLsgv5Mf7ggDsEtELrtIq0meZ6xEpu4A0UK/6rigbbyB8rerrOPM2Vmlwu8vI=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613111112",
+  "partnerTransID": "UNJDZIBQOU",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 11:11:15,622 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 11:11:15,635 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "UNJDZIBQOU",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "Eab1c3KkVQ04K7DLADmUxmp8NnoRf04e99Vi4YJ1k6aeUjWHSPQZGEKYOAl9yfp24AXbEYJRXJBBbg20ms730Iu54szpPqtlalgplLRvst9WtBSZz4TMh71VFEZxOzQWz+LjRqf7zlCdkSPlfxQ48aPgqsg+SL79I73oOBAIVSI="
+}
+13/06/2022 11:11:54,775 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "SLtTVW3LvTjIfJ+RHGv4XOS0Plq4m92dZHRgAQayjI4fFpq+U0d5XAsR68+QxgGFBFB+/gOW3dfwktQQhayoZRLQWBewW1aadqO8YpOA34AoIBB2B/kKfR6DBVG/T0hGYNfu/5K0kl4m54WtYB1aNXSw/RLASoA1azlnfn1rJlM=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "api01_20220613110746496",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 11:11:55,135 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 11:11:55,140 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "api01_20220613110746496",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "Fe+wOhB/qR5tAHvQmoxZ66DumFsoStfXF9Ddn5Bu1AuHiw97AswxbeJBOpWrq95L/m5H1c0OnzeqOI8rrSH8VCHTAENu9Q6dddAukyOv17sVJovbtH+AleTN72PPlaWVeJLBr5zb9UibuGlpbv+SCW/GXcGS0K0YDs7rAUR5Bm8="
+}
+13/06/2022 13:20:42,637 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "0912345331",
+  "data": "1",
+  "dataSign": "WuFeGHHe+Ti4lrEh7F34ADjmOOGz9w970DaN8nEur4UY94jfQekEouRJhhAGMJPOprXEC/gt5Lt7v3/I99fAkz1v9P9Edhg27vYViInfE+oyeA0bGw65UtbBkWwWKhKotiozTvtzsj4DT+IkA+8qs7PThWKeBJNmM6IZejuGuo4=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "123123das12",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 13:20:42,963 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:20:42,978 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "123123das12",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "AFw8Q6gvE4icnOe77xKLJCQ8xMsAxPUtgsSxRi3xZ6zA4OYdunjD4pRKL8+sO2sMWxnF7nE0Mwik8XPalG1vTqWjLyjo4uAk3TfXOCN8SYhwSYjf/kbIoEYDO+BgliokVXAl+WfHhRYFl8z4VFbxvx1yG7xbSjAd494XKKy5Iyc="
+}
+13/06/2022 13:26:24,523 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "QAHrXxspYEnP5GhQsLZB6qLYcTZam4eHTcF73qW0wq7gsBszZOSYSW6o1howq8DZRXuAg3Mcc9729vDbGRCDjvmMRqFiE8+2PKjapMULFwE4ZFLfGTXnVBiHNmiZZNIceqoXmut2csPrke3+LcK+BVSWA7bxim2E4Evyx6YukMA=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0333",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 13:26:24,905 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:26:24,915 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "lvt_0333",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "cloUoHl33qMYQDGzTyLfBHrBIlunw20qFL0o1OF3oYIA5glIdt61DDh+J9Z7jx5oPtYjqk6unTV+hEAiMwlRGUgazYRJhp9FBUg4uxLwA8ZB83mGlWH3LPR9s5is2ly0HDzQ6zzE6kzHtdMt/LP6zTmoKeriDvEpeymASKTLg7c="
+}
+13/06/2022 13:47:18,924 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "QAHrXxspYEnP5GhQsLZB6qLYcTZam4eHTcF73qW0wq7gsBszZOSYSW6o1howq8DZRXuAg3Mcc9729vDbGRCDjvmMRqFiE8+2PKjapMULFwE4ZFLfGTXnVBiHNmiZZNIceqoXmut2csPrke3+LcK+BVSWA7bxim2E4Evyx6YukMA=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0333",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 13:49:09,068 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:49:09,074 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "lvt_0333",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "cloUoHl33qMYQDGzTyLfBHrBIlunw20qFL0o1OF3oYIA5glIdt61DDh+J9Z7jx5oPtYjqk6unTV+hEAiMwlRGUgazYRJhp9FBUg4uxLwA8ZB83mGlWH3LPR9s5is2ly0HDzQ6zzE6kzHtdMt/LP6zTmoKeriDvEpeymASKTLg7c="
+}
+13/06/2022 13:51:07,401 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "LsUQiloGoKaog7z/tTBnXlSrFwy6B7+Lcew4QhwOBemDm6cHc5v63Eobd+ZesuEQgp4tA2xTYc2cy3yUc8PCrlS9KS0csYknbwzstadVlKpeG03vI7iRHdnCeZkiKipFlo8RLiqs011J370V+TMzAzqTrAP18JDULUMta4Csctc=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0352",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 13:51:07,796 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:51:07,811 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "lvt_0352",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "OGceDeNTSLCO0XGjHg4mQIupHCG4zyQqzNdlZGj3hcQJwwHVd8/oq08StbaKYVUOuEmlkbSXLBgO9GmkD0IDRnrdUEN4yFn3Up1PI9Sfmm/IrK2jW8nHzi9jRLNOZNkmXK48pK3FWSj+kxytwvFRxqEwRe5tRZHKNgCQ8cGYd10="
+}
+13/06/2022 13:52:16,419 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "LsUQiloGoKaog7z/tTBnXlSrFwy6B7+Lcew4QhwOBemDm6cHc5v63Eobd+ZesuEQgp4tA2xTYc2cy3yUc8PCrlS9KS0csYknbwzstadVlKpeG03vI7iRHdnCeZkiKipFlo8RLiqs011J370V+TMzAzqTrAP18JDULUMta4Csctc=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0352",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 13:52:18,478 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:52:18,485 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "lvt_0352",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "OGceDeNTSLCO0XGjHg4mQIupHCG4zyQqzNdlZGj3hcQJwwHVd8/oq08StbaKYVUOuEmlkbSXLBgO9GmkD0IDRnrdUEN4yFn3Up1PI9Sfmm/IrK2jW8nHzi9jRLNOZNkmXK48pK3FWSj+kxytwvFRxqEwRe5tRZHKNgCQ8cGYd10="
+}
+13/06/2022 13:52:31,395 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "FE52AQE7U5BgdvPEO4Mo7vzwmxYT8Z2t/jqzn6/KH83FChyIC7LcpPxqWeb76B++D+tYNfW99q47ZIkJjr19t5cZForZSOQWNCiqpo1BXLmq+ejHwrF2ckhfMG6zIPBIGOqLD3k9UocmTXGTdJ6bBm0ArrEz319bWgg0IS6EtWc=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0353",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 13:53:04,993 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:53:05,002 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "lvt_0353",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "cWO3P9R2JW8gZZHJuAKV+YSttM733qgM3qoiraEdB9P1r2hxNaqLvkD0h+XQl8/RL+7ZpepmfLnHf+TKxpvKsba49KjCMBf+DF39wYpTbJ22TddG5ir78/tnofRNPRzm4O0wBsGZk/nGA6D4thD9ki0NibqARh890vGyfIFTDWA="
+}
+13/06/2022 13:56:03,837 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "XpyL3p2QO6u6GKv4fPd6qgoPjqGG0/NXyP2jsFBIX3wscnLuYNcXpQqWcUi8SzL0sT0HXQEu56pBHgot4o8G0KuLiw072n5wVUKmvngfU5fDiZKSQXCGKGar3NUrvbE3XGsXz1dyTiTMy08vgNgF1QgBs/amH4zs9+/ConiZ0mc=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0353",
+  "productAmount": "20000",
+  "productID": "22"
+}
+13/06/2022 13:56:03,912 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:56:03,916 DEBUG PayCard_Main: {
+  "responseCode": -307,
+  "status": -1,
+  "partnerTransID": "lvt_0353",
+  "description": "productAmount không đúng",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "g0A83ACfSh4587HXCb3dRcG8cUbNwMrcCv2PDUNrNdkKaT+7IVsYem9vNRXQXfhuMRWPEY6orNNdBkf6JEx6s2RcAEcsj+0+YrzA1fWBkFmH+x6f9cOQ3CpqcyMZGvl0q+9GnbsYq8i69A1R67w+W9SZR1kUKTPw4y5xuAi57IA="
+}
+13/06/2022 13:57:10,211 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "VBpFydb3k5c0syz5nmzygqStumRDu9A+4XsNv8Ahdm5rqZ4dokZttXPlNuznXzu+mhBsTdpAiOUUaSmQM71Rr9jrzCqy2+7BPrs+gjVN2/mG+LnKA1OxXwJHYdkIQoQwO1n6NPQN420ivHSrMjDanDJ0m6Tb4bKvka+z7afeJWc=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0353",
+  "productAmount": "1000",
+  "productID": "89"
+}
+13/06/2022 13:57:10,296 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:57:10,302 DEBUG PayCard_Main: {
+  "responseCode": -307,
+  "status": -1,
+  "partnerTransID": "lvt_0353",
+  "description": "productAmount không đúng",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "g0A83ACfSh4587HXCb3dRcG8cUbNwMrcCv2PDUNrNdkKaT+7IVsYem9vNRXQXfhuMRWPEY6orNNdBkf6JEx6s2RcAEcsj+0+YrzA1fWBkFmH+x6f9cOQ3CpqcyMZGvl0q+9GnbsYq8i69A1R67w+W9SZR1kUKTPw4y5xuAi57IA="
+}
+13/06/2022 13:57:20,950 DEBUG PayCard_Main: {
+  "categoryID": "45",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "hr6RXRocVlaPiIbFPxj4FM1J7NlEd4ML3Noua8FXyArDaQeXMz2S/SRV9O71C2OYOct4sOxzQOGQfzwdO2BXDvI5hH5ETe5MtkAQQDlR4U51MVkrsHEixj5cyXrDfNn8T40k4bsDdVG5v6NkHqu1ZgtoCzecjIJIG38gIxC82/M=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0353",
+  "productAmount": "1000",
+  "productID": "89"
+}
+13/06/2022 13:57:21,036 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:57:21,041 DEBUG PayCard_Main: {
+  "responseCode": -307,
+  "status": -1,
+  "partnerTransID": "lvt_0353",
+  "description": "productAmount không đúng",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "g0A83ACfSh4587HXCb3dRcG8cUbNwMrcCv2PDUNrNdkKaT+7IVsYem9vNRXQXfhuMRWPEY6orNNdBkf6JEx6s2RcAEcsj+0+YrzA1fWBkFmH+x6f9cOQ3CpqcyMZGvl0q+9GnbsYq8i69A1R67w+W9SZR1kUKTPw4y5xuAi57IA="
+}
+13/06/2022 13:58:30,634 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "FE52AQE7U5BgdvPEO4Mo7vzwmxYT8Z2t/jqzn6/KH83FChyIC7LcpPxqWeb76B++D+tYNfW99q47ZIkJjr19t5cZForZSOQWNCiqpo1BXLmq+ejHwrF2ckhfMG6zIPBIGOqLD3k9UocmTXGTdJ6bBm0ArrEz319bWgg0IS6EtWc=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0353",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 13:58:31,039 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 13:58:31,044 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "lvt_0353",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "cWO3P9R2JW8gZZHJuAKV+YSttM733qgM3qoiraEdB9P1r2hxNaqLvkD0h+XQl8/RL+7ZpepmfLnHf+TKxpvKsba49KjCMBf+DF39wYpTbJ22TddG5ir78/tnofRNPRzm4O0wBsGZk/nGA6D4thD9ki0NibqARh890vGyfIFTDWA="
+}
+13/06/2022 14:02:30,988 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "FE52AQE7U5BgdvPEO4Mo7vzwmxYT8Z2t/jqzn6/KH83FChyIC7LcpPxqWeb76B++D+tYNfW99q47ZIkJjr19t5cZForZSOQWNCiqpo1BXLmq+ejHwrF2ckhfMG6zIPBIGOqLD3k9UocmTXGTdJ6bBm0ArrEz319bWgg0IS6EtWc=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "lvt_0353",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:02:31,395 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:02:31,404 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "lvt_0353",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "cWO3P9R2JW8gZZHJuAKV+YSttM733qgM3qoiraEdB9P1r2hxNaqLvkD0h+XQl8/RL+7ZpepmfLnHf+TKxpvKsba49KjCMBf+DF39wYpTbJ22TddG5ir78/tnofRNPRzm4O0wBsGZk/nGA6D4thD9ki0NibqARh890vGyfIFTDWA="
+}
+13/06/2022 14:03:37,981 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "E/4feH7DvsxJkD6K5u1edVBgqxDJ2E1MPPOJAw1nKUpukgaF5rBKo3QddizbrtreuxuYYH5E8sskqRdTLRy6Ax/sBysMqB2lz2X0Mjnw9SiEo60ErcZ3VDeoj7LZYHBwGWnsgQliO8l7Eisv2gFCdmg3AhKKnrnfH4hPBuVECss=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "AELVYFITIY",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:03:38,327 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:03:38,335 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "AELVYFITIY",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "iE7sFoQKZOY+IhuX2lAPv5sS6vPeXUWj8UeHHhbJ6V3yVibb1/dqgKAySrdJKgm0nlkQAWxpUrK6QeFsfGFhNdC2HRJDGcWYpc/rXwY82hPGSLhZzzhckxynUbPHSTDjBGk8hliZ5hLAKRAdPGmLrHdJqpQ67fWaufTMhbhfGDE="
+}
+13/06/2022 14:04:17,398 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "n6PmL5a//8fug2Ot9CYEnvkq6K3eO3wco/eX0UNHneCmplxm8S6YukRLMQbSAf1E20blfm2RalGEZ9VYBKuEsAMuAOvTX9t2LvGoS+fLOjH849CIqljFqJByWpVpaFfx2Fz0ZePA9mFRAzmdHCY73VHXbSJVtzeJ7m4jHzyFWqs=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "202206213110746",
+  "partnerTransID": "GSYSYFXYWF",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:04:17,416 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:04:17,420 DEBUG PayCard_Main: {
+  "responseCode": -301,
+  "status": -1,
+  "partnerTransID": "GSYSYFXYWF",
+  "description": "partnerTransDate sai định dạng",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": ""
+}
+13/06/2022 14:04:29,288 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "GMiiEJs047wfy0LdXsbE/p2JgTWZqLE2HPlPGYqZz7OhWIZV8iz0I76Gg3HuppFg6jqQGBHatYOVI+KZIJAvJrOTPGdwsHtXPS03b5a9zzA72NAbhNJJV7+7Rjs+elIOs8YPgVHIfHfnis4GntNc1toDwBifZ+mhKbZ536djJ7s=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "OWRJHGDWKX",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:04:29,778 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:04:29,792 DEBUG PayCard_Main: {
+  "responseCode": -5552,
+  "status": -1,
+  "partnerTransID": "OWRJHGDWKX",
+  "description": "Đơn hàng đối tác đã tồn tại",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "Oq59xyVnvtRY/jlKS7gOTfsf38tNfrix6gGV4AWLzyDwlA3q/GDmJJKBwas6yi0jjOy43glmgDPAE/aorVPaUEQGjbuI4AckaFkfrPPxbhzpXciLGq+2Ol+fYeC6HLUJSVwVVXfTPFJqd9uFCiF48ueqvaC7ZAdsXFULH9Wa6MA="
+}
+13/06/2022 14:04:39,212 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "KW15MB0PFt4ExndLfknI/QpHueg0quHXPdyPZz0RmMysd4uWC7PFnZ5CGgemTOzA/BRw+xlcrCYxFfgDsLD1BB4Mi3x3QVqLkaOZdDat3jhWmCKrPKpmlA5udXW9CUXqDv/UUk8mf86KiihBbYAnepgKu8Dn3QLJ0nXI29SDoCY=",
+  "partnerCode": "09123453311",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "DKRUMRWPFG",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:04:39,268 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:04:39,272 DEBUG PayCard_Main: {
+  "responseCode": -302,
+  "status": -1,
+  "partnerTransID": "DKRUMRWPFG",
+  "description": "partnerCode không tồn tại trên hệ thống hoặc Sai chữ ký",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": ""
+}
+13/06/2022 14:05:04,050 DEBUG PayCard_Main: {
+  "categoryID": "1s14",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "J9SpvK7bIGjPly15AJhKET3JXlzHDl7ItjWkOOy4m0WsMOYoFFdi1fc8lXoeh4A0zq+TfKqanKlPIE/B85xagMMIuEodWa+0IbqGLFgLPNIvX94ZBVa6RZUjlYhBW1NtUOp3umSDzLaqZpzQAXhQupDgcwZOhLYLgTFwojGARUM=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "BRGDXZSEOI",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:05:04,082 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:05:04,087 DEBUG PayCard_Main: {
+  "responseCode": -307,
+  "status": -1,
+  "partnerTransID": "BRGDXZSEOI",
+  "description": "productAmount không đúng",
+  "balance": "0",
+  "dataInfo": "",
+  "dataSign": "EMm5xfbwCTNYSbKu0fsPI/ooVflpjUFOxchBMc9YKoaMJKBK2EhYOtCOKahwtUaq7Nxlvwc4IC3As8oARehyVDwmmkRxscIpuVXH8+BALjRGkgNsJh7ZOilHdtwD4tg68AneBfanlYH19h5BPAbm8z4gOO1xIJRW7tmUJRsADzc="
+}
+13/06/2022 14:09:02,768 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "G41im+VZ0USX4heVfyNiSiE+LIHxXiFhfmFAytOw/o+PsnhTsyUeTPFtK2YVigJDbgGSfUtdlt2v+kx/DGAcDPnTXE1beQbN1qXG/tSlKUoQ6jQoFiTzqajU65bFiRSufu1XHnulvPGO35BJzo+sWx2VJ4MNkt6sr9p4d9UtfYU=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "GTYPMATTPS",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:09:26,571 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "Fq09/7Divd1ZBeRUt8GdhhFeZktMU4XNvRFSps20kpG/dyOciYwLKhEaT46MZ3SD+ICyYvIxfVywQDfiTLo56sqch3eAfSxUkJfiaPZMw4GFQmLnu0fUZk6ZNeAppYYJioqDReQ+iLbfMIKoPm4pwe9e2ahRoudu2CYmFW8qeQM=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "QZNVEZXWHM",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:09:26,576 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:09:26,584 DEBUG PayCard_Main: {
+  "responseCode": 1,
+  "status": 1,
+  "partnerTransID": "QZNVEZXWHM",
+  "description": "Mua hàng thành công sản phẩm ",
+  "balance": "6803263",
+  "dataInfo": "1jS3CuoTdWIcgCUI9tD3XrK4k6e+G/SqKMcJzqHwrw78D7bqa5NYHTsplBQ7AF/wFOTHe1KXHJf/5qs2uu/UgIgEbwto+mA1oTlGOlNo/ED6A7rm2uCWZkp5v9P6Hmo1McrmdQB0NU78hCEOoX+rfaF9fyXM8zWSd0UyCLGpISerfQVsEKBArQ==",
+  "dataSign": "Fz8efIiUgKeDYtHxp5AUd7V/fziRbUAdkihUsxntatugKqqIE9br+VJWGp9zYIexZ8RC7f6D1+ehqSa13eQxrAVjo2CH9EXHCM9u0tWbvJgNdnJp+QHQ+H5yKfKzeoWcyLjT+YwNYt2f/Sd7CiQGWK1Ix7xTuaXRQsLX/6z6+To="
+}
+13/06/2022 14:10:55,694 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "ottoK6LD0DvBL+Z0nPmyZ9R9ka0fUxoXWkab+DT66Q9t+53+vRArBQVt8E2AedANv3oQhUmqBcKBJSb1IzzAGDn9t9tWk63zy6I4cxr5JOAT0Px1c487C7zeKbyJStK1YsnrQiYsiZghjbZqJW8L4Vj4RIhk6HriQkjjQCqyF8U=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "KFJYACRHJE",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:10:55,699 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:10:55,707 DEBUG PayCard_Main: {
+  "responseCode": 1,
+  "status": 1,
+  "partnerTransID": "KFJYACRHJE",
+  "description": "Mua hàng thành công sản phẩm ",
+  "balance": "6771594",
+  "dataInfo": "1jS3CuoTdWIcgCUI9tD3Xu3+Kugi42zeKMcJzqHwrw78D7bqa5NYHTsplBQ7AF/wHOlX9QKjX+r/5qs2uu/UgIgEbwto+mA1ro1QCk1O+/j6A7rm2uCWZkp5v9P6Hmo1McrmdQB0NU78hCEOoX+rfaF9fyXM8zWSd0UyCLGpISerfQVsEKBArQ==",
+  "dataSign": "Pl7Ae/bi2QTwWAcKNi5gCzXYis8u9wBNBSadcU9HtL1BKlQV7W1Gr1wIt9PWQ2ZK2HGL2XSyePS2/O6s5tIDWfrNXu2V2NvZmUwGZ+ODDmhPuadtxZupv1e5JaNvTdoho4TKDzc0Mrn/Pa0fY7gJMJOu5n1GALlPIJgNWEMmSGk="
+}
