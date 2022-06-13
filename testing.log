@@ -555,3 +555,24 @@
   "dataInfo": "1jS3CuoTdWIcgCUI9tD3Xu3+Kugi42zeKMcJzqHwrw78D7bqa5NYHTsplBQ7AF/wHOlX9QKjX+r/5qs2uu/UgIgEbwto+mA1ro1QCk1O+/j6A7rm2uCWZkp5v9P6Hmo1McrmdQB0NU78hCEOoX+rfaF9fyXM8zWSd0UyCLGpISerfQVsEKBArQ==",
   "dataSign": "Pl7Ae/bi2QTwWAcKNi5gCzXYis8u9wBNBSadcU9HtL1BKlQV7W1Gr1wIt9PWQ2ZK2HGL2XSyePS2/O6s5tIDWfrNXu2V2NvZmUwGZ+ODDmhPuadtxZupv1e5JaNvTdoho4TKDzc0Mrn/Pa0fY7gJMJOu5n1GALlPIJgNWEMmSGk="
 }
+13/06/2022 14:23:12,153 DEBUG PayCard_Main: {
+  "categoryID": "114",
+  "customerID": "",
+  "data": "1",
+  "dataSign": "Jn/1HubZcbq3sJ9pr/0Ediyi3nsak2Z1Zsm6Q/53QemElR4Vixqp7lXIuDnXJm8oT6Rqrk9l3IA2rC8RqhhBBVKKQeQ3DEv80k4CqmL8KqFIQ8KDtiKsdIWFTcxD+b4ZWrTBwNZA77oYuypg1cOw9idj/6odHOr/xgpTKrhiRIU=",
+  "partnerCode": "0912345331",
+  "partnerTransDate": "20220613110746",
+  "partnerTransID": "HWFVCDJITZ",
+  "productAmount": "20000",
+  "productID": "89"
+}
+13/06/2022 14:23:12,160 DEBUG PayCard_Main: ---------- RESPONSE FROM VTC -----------
+13/06/2022 14:23:12,172 DEBUG PayCard_Main: {
+  "responseCode": 1,
+  "status": 1,
+  "partnerTransID": "HWFVCDJITZ",
+  "description": "Mua hàng thành công sản phẩm ",
+  "balance": "6715435",
+  "dataInfo": "1jS3CuoTdWIcgCUI9tD3Xg+a/elpwR1/KMcJzqHwrw78D7bqa5NYHTsplBQ7AF/woZPhLmKBFFj/5qs2uu/UgIgEbwto+mA1AO+g0XuIfEj6A7rm2uCWZkp5v9P6Hmo1McrmdQB0NU78hCEOoX+rfaF9fyXM8zWSd0UyCLGpISerfQVsEKBArQ==",
+  "dataSign": "NLeX9gmIgJuXt0Fy0ZNLqHePgy08G7ag+ACBPtSO37URZxznMIP2XnfQS5/a9P9hvpzMQB5L89YCWKPdUGHXgaOyZhrGFPEP25XI3N6rJqNI1OpQkqhM2y+PLyV0X8hS7PbIGk0AeIHpQlPMS0OwizKOUioLfPWsm1363iYiqcI="
+}
